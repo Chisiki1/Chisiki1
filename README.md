@@ -1,6 +1,6 @@
 # Chisiki
 
-I build open-source tools for more reliable AI agents and better developer workflows. I also work on decentralized knowledge sharing.
+I'm a developer based in Japan, building open-source tools for more reliable AI agents, better developer workflows, and decentralized knowledge sharing.
 
 ### Featured projects
 
@@ -12,12 +12,6 @@ I build open-source tools for more reliable AI agents and better developer workf
 
 - **[Chisiki SDK](https://github.com/Chisiki1/chisiki-sdk)**  
   A TypeScript SDK that lets AI agents interact with a decentralized knowledge marketplace.
-
-### How I approach development
-
-- Start with the problems people encounter when using the software.
-- Distinguish design intent from behavior that has actually been verified.
-- Turn bug reports and user feedback into practical improvements.
 
 Bug reports, feature suggestions, and contributions are welcome through each project's issues and pull requests.
 
